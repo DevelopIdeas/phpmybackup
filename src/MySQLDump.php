@@ -19,7 +19,7 @@
 	25/04/2010 - 0.3 - Add UFT-8 encoding for MySQL connection & file writing
 */
 
-class MYSQL_DUMP{
+class MySQLDump {
 	var $dbhost = ""; // MySQL Host
 	var $dbuser = ""; // MySQL Username
 	var $dbpwd = ""; // MySQL password

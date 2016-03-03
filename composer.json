@@ -1,0 +1,14 @@
+{
+    "name": "developideas/php-mysql-backup",
+    "description": "Backup MySQL databases from PHP",
+    "type": "git",
+    "require": {
+    },
+    "authors": [
+        {
+            "name": "Anton Priestley",
+            "email": "anton@priestley.me"
+        }
+    ],
+    "minimum-stability": "dev"
+}
